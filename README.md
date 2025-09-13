@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Overview 
+This is a small application built using Ruby on Rails.
+The purpose of this project was to learn the basic crud operations and the MVC model in Rails.
 
-Things you may want to cover:
+## Tech stack 
+Ruby on Rails
+HTML/CSS
+SQLite
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
